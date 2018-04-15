@@ -1,0 +1,2 @@
+# MyCORDS
+CORDS in hadoop
